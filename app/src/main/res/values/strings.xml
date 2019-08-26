@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoogleAdds</string>
+    <string name="AppID">ca-app-pub-3353371827727790~4134165485</string>
+    <string name="banner_footer">ca-app-pub-3353371827727790/3718877298</string>
+    <string name="interstitial">ca-app-pub-3353371827727790/6696394421</string>
+    <string name="nativeAdd">ca-app-pub-3353371827727790/4553446816</string>
+
+
+</resources>
